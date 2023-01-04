@@ -1,2 +1,41 @@
 {
+   "attributes":[
+      {
+         "trait_type":"Name",
+         "value":"Toby"
+      },
+      {
+         "trait_type":"Breed",
+         "value":"Rottweiler"
+      },
+      {
+         "trait_type":"Birthday",
+         "value":"February 8, 2019"
+      },
+      {
+         "trait_type":"Personality",
+         "value":"Good Boi"
+      }
+   ],
+   "description":"Toby is a good boi",
+   "external_url":"https://levan.blog/",
+   "name":"Toby the Rottweiler",
+   "image":"https://raw.githubusercontent.com/LevanIlashvili/articles/main/ocp/toby.jpeg",
+   "properties":{
+      "category":"image",
+      "creators":[
+         {
+            "address":"2xsAsaEhXVwKU1oSXBjeJqafeRLh6Yt58zziTYNrLXMn",
+            "share":100
+         }
+      ],
+      "files":[
+         {
+            "uri":"https://raw.githubusercontent.com/LevanIlashvili/articles/main/ocp/toby.jpeg",
+            "type":"image/png"
+         }
+      ]
+   },
+   "seller_fee_basis_points":500,
+   "symbol":"TOBY"
 }
